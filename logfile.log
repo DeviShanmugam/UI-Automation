@@ -1,0 +1,27 @@
+2021-09-05 17:38:19,977 ************************** Test Execution Started ************************************ 
+2021-09-05 17:38:19,978 Could not load properties : C:\Users\320064331\Desktop\Selenium Project\UI Automation\src\test\resources\config\test.properties (The system cannot find the file specified) 
+2021-09-05 17:38:22,713 Book a flight: Test started 
+2021-09-05 17:38:28,863 Book a flight : Test Passed 
+2021-09-05 17:38:29,171 Total number of testcases : 1 
+2021-09-05 17:38:29,171 Number of testcases Passed : 1 
+2021-09-05 17:38:29,171 Number of testcases Failed : 0 
+2021-09-05 17:38:29,171 Number of testcases Skipped  : 0 
+2021-09-05 17:38:29,171 ************************** Test Execution Finished ************************************ 
+2021-09-05 17:52:49,524 ************************** Test Execution Started ************************************ 
+2021-09-05 17:52:49,525 Could not load properties : C:\Users\320064331\Desktop\Selenium Project\UI Automation\src\test\resources\config\test.properties (The system cannot find the file specified) 
+2021-09-05 17:52:50,856 Book a flight: Test started 
+2021-09-05 17:52:56,204 Book a flight : Test Passed 
+2021-09-05 17:52:56,490 Total number of testcases : 1 
+2021-09-05 17:52:56,490 Number of testcases Passed : 1 
+2021-09-05 17:52:56,490 Number of testcases Failed : 0 
+2021-09-05 17:52:56,490 Number of testcases Skipped  : 0 
+2021-09-05 17:52:56,490 ************************** Test Execution Finished ************************************ 
+2021-09-05 17:53:00,355 ************************** Test Execution Started ************************************ 
+2021-09-05 17:53:00,356 Could not load properties : C:\Users\320064331\Desktop\Selenium Project\UI Automation\src\test\resources\config\test.properties (The system cannot find the file specified) 
+2021-09-05 17:53:01,701 Book a flight: Test started 
+2021-09-05 17:53:06,641 Book a flight : Test Passed 
+2021-09-05 17:53:06,935 Total number of testcases : 1 
+2021-09-05 17:53:06,935 Number of testcases Passed : 1 
+2021-09-05 17:53:06,935 Number of testcases Failed : 0 
+2021-09-05 17:53:06,935 Number of testcases Skipped  : 0 
+2021-09-05 17:53:06,936 ************************** Test Execution Finished ************************************ 

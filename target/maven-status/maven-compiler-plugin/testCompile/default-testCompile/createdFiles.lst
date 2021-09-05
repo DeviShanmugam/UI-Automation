@@ -1,0 +1,11 @@
+utilities\TestProperties.class
+utilities\PageinstancesFactory.class
+utilities\WebDriverContext.class
+utilities\LoggerUtil.class
+utilities\ReportUtil.class
+utilities\Constants.class
+reporting\LogListener.class
+reporting\ExtentReportManager.class
+reporting\ReportListener.class
+Pages\BasePage.class
+Tests\Driver.class

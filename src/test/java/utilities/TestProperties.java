@@ -1,0 +1,38 @@
+package utilities;
+
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.util.Properties;
+
+/**
+ * The Class has all TestProperties (All properties mentioned in <strong>test.properties</strong> file).
+ * @author Devi
+ */
+public class TestProperties {
+
+	// The Constant props.
+	private static final Properties props = new Properties();
+
+
+	 //Load all propertie.
+	
+	public static void loadAllPropertie() {
+		try {
+			FileInputStream Locator;
+			Locator = new FileInputStream(Constants.PROPERTY_FILE_PATH);
+			props.load(Locator);
+		} catch (IOException e) {
+			LoggerUtil.getLogger().fatal("Could not load properties : " + e.getMessage());
+		}
+	}
+
+	// Gets the property.
+	public static String getProperty(String key) {
+		return props.getProperty(key);
+	}
+
+	// Put property.
+	public static void putProperty(String key, String value) {
+		props.put(key, value);
+	}
+}
